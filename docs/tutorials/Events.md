@@ -50,11 +50,11 @@ If you are acting within the frame, you may use `svgEditor.ready`
 
 ## Editor (within-frame) events (`svgEditor`)
 
-### `svgEditor.canvas`
+### `svgEditor.svgCanvas`
 
 - Canvas object. See "Canvas events".
 
-### `svgEditor.canvas.bind(eventName, function () {})`
+### `svgEditor.svgCanvas.bind(eventName, function () {})`
 
 - Method for listening to canvas events. See "Canvas events".
 
